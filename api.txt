@@ -1,0 +1,26 @@
+# Covid-19
+
+covid-19 = https://covid-api.mmediagroup.fr/v1/cases
+서울시 지역별 감염자 = https://www.seoul.go.kr/coronaV/coronaStatus.do
+코로나 시-도발생현황 = https://www.data.go.kr/data/15043378/openapi.do
+
+
+# 주가
+
+한국예탁결의원 주식정보서비스 = https://www.data.go.kr/data/15001145/openapi.do
+
+
+# 실시간 날씨
+
+openweathermap = https://openweathermap.org/current
+
+
+weather api = https://api.openweathermap.org/data/2.5/weather?q=London&appid=af88e26010932bab33aa15ec76b9bf2e
+
+
+
+아이폰 계산기와 동일한 버튼패턴 
+
+Weather covid-19 stocks  출력
+버튼활성화 시 Ui 전환 
+ex) weather -> 1 ,2, 3 버튼 -> 서울 경기 강원 으로 변경 
